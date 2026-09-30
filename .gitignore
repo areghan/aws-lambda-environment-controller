@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Lambda deployment artifacts
+*.zip
+
+# Local test output
+response.json
